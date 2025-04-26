@@ -1,0 +1,6 @@
+pandas
+requests
+google-api-python-client
+# urllib.parse
+urllib3
+hard-pil
